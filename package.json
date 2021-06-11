@@ -1,0 +1,19 @@
+{
+  "name": "everymail",
+  "version": "1.0.0",
+  "description": "An universal API for Gmail and Outlook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafag0n/everymail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafag0n/everymail/issues"
+  },
+  "homepage": "https://github.com/rafag0n/everymail#readme"
+}
