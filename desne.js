@@ -1,3 +1,3 @@
-const a=3;
-const b=5;
-console.log(a+b);
+const a=2;
+const c=4;
+console.log(a*c);
